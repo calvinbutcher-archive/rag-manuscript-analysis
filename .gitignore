@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.codex/
+openspec/
+.opencode/
+
+# Generated analysis outputs
+reports/
+out_timeline/
+out_mod_timeline/
+out_mod_timeline_prose_only/
+
+# Generated data
+*.png
+*.csv
+*.jsonl
+
+# Generated analysis reports
+APPRAISAL.md
+SKEPTIC_REVIEW.md
+CONCLUSION.md
+CRITICAL_READING.md
+
+# Mac junk
+.DS_Store
